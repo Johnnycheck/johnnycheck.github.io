@@ -1,20 +1,20 @@
 {
     "homepage": "https://modrinth.com/mod/neworesplusreworked/versions",
     "1.21.3":{
-            "1.0.0-snapshot-1.21.3": "Redid code and other Stuff",
-            "1.0.1-snapshot-1.21.3": "Just added Some more blocks!!!",
+            "96WRO8x8": "Redid code and other Stuff",
+            "zTocrKF4": "Just added Some more blocks!!!",
   "1.21.1": {
-          "1.0.1": "Nothing",
+          "pMBMNgyc": "Nothing",
   "1.21": {
-        "1.0.2": "Nothing" 
+        "YHjaXNSR": "Nothing" 
         
     }
 }
 },
     "promos": {
-        "1.21.3-latest": "1.0.1-snapshot-1.21.3",
-        "1.21.3-recommended": "1.0.0-snapshot-1.21.3",
-        "1.21.1-recommended": "1.0.1"
+        "1.21.3-latest": "zTocrKF4",
+        "1.21.3-recommended": "96WRO8x8",
+        "1.21.1-recommended": "pMBMNgyc"
         
 }
 }
